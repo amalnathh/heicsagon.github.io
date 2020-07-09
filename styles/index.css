@@ -53,6 +53,7 @@ input {
 
 #input {
   width: 80vw;
+  min-height:27px;
   outline: none;
   display: none;
   box-shadow: none;
@@ -100,7 +101,7 @@ span {
 }
 
 .welcome_text {
-  background-color: rgb(243, 233, 233);
+  background-color: rgb(248, 248, 248);
   opacity: 0.9;
   border-radius: 30px;
   margin: 10px;
@@ -125,7 +126,7 @@ span {
 footer {
   width: 100%;
   padding-top: 1px;
-  background-color: #ecf8ff;
+  background-color: #fafdff;
   border-radius: 20px;
   margin-top: 2vh;
 }
@@ -207,7 +208,6 @@ img {
   margin-top: 2vh;
   padding: 5rem;
   background-color: #fff;
-  box-shadow: 0 1.4rem 8rem rgba(0, 0, 0, 0.2);
   display: flex;
   align-items: center;
   border-radius: 0.8rem;
@@ -252,7 +252,7 @@ img {
   font-size: 2.5rem;
   margin: 1.5rem 0 2rem;
   text-transform: uppercase;
-  color: #4facfe;
+  color: #3b4955;
 }
 
 .blog-post_text {
@@ -267,13 +267,13 @@ img {
   letter-spacing: 1px;
   font-size: 1.2rem;
   color: rgb(26, 26, 29);
-  background-image: linear-gradient(to right, #e4d5d4 0%, #f5cecc 100%);
+  background-image: linear-gradient(to right, #d5e4d4 0%, #d3f5cc 100%);
   border-radius: 0.8rem;
   text-decoration: none;
 }
 
 .blog-post_cta:hover {
-  background-image: linear-gradient(to right, #f5cecc 0%, #e4d5d4 100%);
+  background-image: linear-gradient(to right, #d3f5cc 0%, #d6e4d4 100%);
 }
 
 @media screen and (max-width: 1068px) {
@@ -343,11 +343,5 @@ img {
   }
   .logo a {
     font-size: 2vh;
-  }
-  .section1 h1 {
-    font-size: 7vh;
-  }
-  .li {
-    padding-left: 3vh;
   }
 }
