@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://heicsagon.github.io/</loc>
+	<lastmod>2020-07-09T11:39:59+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://heicsagon.github.io/content/backgroundimages/images.html</loc>
+	<lastmod>2020-07-09T11:39:59+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://heicsagon.github.io/content/articles/articleindex.html</loc>
+	<lastmod>2020-07-09T11:40:02+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+</urlset>
