@@ -10,7 +10,7 @@ function darkbtn() {
     darkclick.innerText = "Light mode";
     rootstyle.setProperty("--searchinputclr", "#3d4248");
     rootstyle.setProperty("--ddd", "#454744");
-    rootstyle.setProperty("--fontclrdark", "rgb(220, 220, 220)");
+    rootstyle.setProperty("--fontclrdark", "rgb(255, 255, 255)");
     rootstyle.setProperty("--mainclr", "#26282c");
     rootstyle.setProperty("--contentshowclr", "white");
     rootstyle.setProperty("--white", "#26282c");

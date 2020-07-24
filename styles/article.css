@@ -95,7 +95,7 @@ header {
     max-width: 50%;
 }
 
-p.accordion {
+h1.accordion {
     background-color: var(--mainclrforaccordion);
     color: var(--fontclrdark);
     font-weight: bold;
@@ -111,14 +111,14 @@ p.accordion {
 
 /* Add a background color to the accordion if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 
-p.accordion.active, p.accordion:hover {
+h1.accordion.active, h1.accordion:hover {
     background-color: var(--ddd);
     font-size: large;
 }
 
 /* Unicode character for "plus" sign (+) */
 
-p.accordion:after {
+h1.accordion:after {
     content: '\2795';
     font-size: 13px;
     color: var(--fontclrlight);
@@ -128,7 +128,7 @@ p.accordion:after {
 
 /* Unicode character for "minus" sign (-) */
 
-p.accordion.active:after {
+h1.accordion.active:after {
     content: "\2796";
 }
 

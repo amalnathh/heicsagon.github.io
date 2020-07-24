@@ -74,12 +74,6 @@ main, #folders {
   grid-gap: 1.5rem;
 }
 
-main > article {
-  width: 100%;
-  height: 32px;
-  padding: 1rem;
-  background-color: #FFF;
-}
 main > img {
   width: 100%;
   margin: 0;
@@ -108,7 +102,7 @@ main > img > figcaption {
   margin-top: 0.5rem;
   margin-bottom: 2rem;
 }
-#folders > article {
+#folders > h1 {
   width: 100%;
   height: 4rem;
   padding: 0 1.5rem;
@@ -117,13 +111,12 @@ main > img > figcaption {
   line-height: 4rem;
   transition: all 100ms ease-out;
 }
-#folders > article:hover {
+#folders > h1:hover {
   box-shadow: 0 16px 16px -4px rgba(0, 0, 0, 0.1);
   transform: scale(1.02);
 }
 #download{
   display:none;
-  transition: all ease-in-out 0.3s;
 }
 .dwld_sect{
   position: fixed;
@@ -134,15 +127,16 @@ main > img > figcaption {
   height:100vh;
   display: flex;
   justify-content: center;
-  transition: all ease-in-out 0.3s;
-}.center{
+  transition:all ease-in 0.2s;
+}
+.center{
   position: relative;
   top:48%;
   height: 60px;
   padding: 11px;
-  background-color: #2b2b2b;
+  background-color: #f5efe3;
   border-radius: 15px;
-  transition: all ease-in-out 0.3s;
+  transition:all ease-out 0.1s;
 }.close{
   display: none;
   position: relative;
@@ -150,14 +144,12 @@ main > img > figcaption {
   color: #fff;
   padding: 10px;
   margin-left: 30px;
-  transition: all ease-in-out 0.3s;
 }
 .center>a{
   text-decoration: none;
   cursor: pointer;
   font-size: 27px;
-  color: white;
-  transition: all ease-in-out 0.3s;
+  color: #424242;
 }
 footer {
   width: 100%;
@@ -218,8 +210,8 @@ footer {
   color: #2b2b2b;
   font-size: 14px;
 }
-.bottom-links{
-  list-style-type: none;
+.bottom-links li{
+  list-style: none;
 }
 .bottom-links a {
   text-decoration: none;
