@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42.433926mm"
+   height="46.92638mm"
+   viewBox="0 0 42.433926 46.92638"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="heicsa.svg">
+  <title
+     id="title823">heicsa</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="89.773769"
+     inkscape:cy="74.783803"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>heicsa</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-107.67377,-225.96283)">
+    <path
+       sodipodi:type="star"
+       style="fill:#0070ff;fill-opacity:0.86602873;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0.03827754"
+       id="path844"
+       sodipodi:sides="6"
+       sodipodi:cx="128.89073"
+       sodipodi:cy="249.42603"
+       sodipodi:r1="23.331612"
+       sodipodi:r2="20.205767"
+       sodipodi:arg1="0.53157887"
+       sodipodi:arg2="1.0551776"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 149.00276,261.2527 c -1.18266,2.01121 -17.96513,11.52281 -20.29821,11.50419 -2.33309,-0.0186 -18.96162,-9.79685 -20.11204,-11.82667 -1.15042,-2.02982 -0.99648,-21.31967 0.18619,-23.33087 1.18267,-2.0112 17.96513,-11.52281 20.29822,-11.50419 2.33309,0.0186 18.96161,9.79685 20.11203,11.82667 1.15042,2.02983 0.99648,21.31967 -0.18619,23.33087 z"
+       inkscape:transform-center-x="1.6238202e-006" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;fill-opacity:0.99043059;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-opacity:0.03827754"
+       id="path848"
+       sodipodi:sides="3"
+       sodipodi:cx="122.54307"
+       sodipodi:cy="238.06706"
+       sodipodi:r1="12.870804"
+       sodipodi:r2="6.5970955"
+       sodipodi:arg1="1.0490745"
+       sodipodi:arg2="2.0962721"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 128.95754,249.22556 c -1.93271,1.11102 -19.28944,-8.95337 -19.28525,-11.18266 0.004,-2.22928 17.39856,-12.22845 19.32709,-11.11018 1.92852,1.11826 1.89087,21.18183 -0.0418,22.29284 z"
+       inkscape:transform-center-x="2.5539807"
+       inkscape:transform-center-y="0.062261267" />
+  </g>
+</svg>

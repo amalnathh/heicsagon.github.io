@@ -173,7 +173,7 @@ div.panel.show {
 .promoted-search__greeting {
     color: var(--lightblue);
     font-size: 1.75rem;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 2.25rem;
     padding: 0 0 1.5rem 0;
     text-align: center
